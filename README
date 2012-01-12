@@ -1,3 +1,7 @@
+http://gamingrobot.net
+
+http://thebigboss.org/sbsettings-autolock-toggle
+
 GamingRobot and BigBoss rewrote the SBSettings autolock toggle from scratch. 
 The toggle will also save your current autolock settings value from the settings app and restore it when you toggle it. 
 When the toggle is on, autolock will occur. When the toggle is off, autolock will not occur. 
